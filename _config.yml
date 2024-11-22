@@ -16,6 +16,8 @@ plugins:
 
 collections:
   - cien_equipos_campeones
+  - ligas-de-futbol-nicolas-romero
+  - escuelas-de-futbol-nicolas-romero
 
 # Exclude from processing.
 # The following items will not be processed, by default.
