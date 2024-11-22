@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Armadillos Barrón Gana los Cuartos de Final en la Mesa"
+title:  "Aguila PI vs Real Valencia"
 date:   2024-11-15 17:54:48 +0000
-categories: jekyll update
+categories: liga interestatal
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
