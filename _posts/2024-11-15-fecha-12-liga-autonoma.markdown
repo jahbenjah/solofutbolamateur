@@ -2,11 +2,9 @@
 layout: post
 title:  "Fecha 12 Liga Municipal de Futbol Nicolas Romero"
 date:   2024-11-15 17:54:48 +0000
-categories: liga autonona
+categories: liga autonoma
 permalink : /:categories/:title:output_ext
 ---
-
-# Descripción de la Tabla de Posiciones
 
 La tabla de posiciones de la **Liga Municipal de Futbol "Nicolás Romero Autónoma"** correspondiente a la **Fecha 11**, actualizada al **19 de noviembre de 2024**, muestra el desempeño de los equipos en la categoría **Primera Fuerza A**. A continuación, se detalla la información más relevante:
 

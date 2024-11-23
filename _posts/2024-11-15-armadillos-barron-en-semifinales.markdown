@@ -2,7 +2,7 @@
 layout: post
 title:  "Armadillos Barrón Gana los Cuartos de Final en la Mesa"
 date:   2024-11-15 17:54:48 +0000
-categories: liga 
+categories: liga interestatal
 permalink : /:categories/:title:output_ext
 ---
 

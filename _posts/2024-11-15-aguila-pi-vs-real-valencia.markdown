@@ -3,6 +3,7 @@ layout: post
 title: "Aguila PI vs Real Valencia"
 date: 2024-11-15 17:54:48 +0000
 categories: liga interestatal
+permalink : /:categories/:title:output_ext
 ---
 
 Los cuartos de final de la liga Interestal Ascenso seran en el Estadio de Progreso Industrial
