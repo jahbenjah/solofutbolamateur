@@ -1,7 +1,7 @@
 ---
 title: Blog Solo Futbol Amateur
 layout: home
-permalink: /blog/index
+# permalink: /blog/index
 pagination: 
   enabled: true
 ---
