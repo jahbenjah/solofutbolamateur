@@ -6,42 +6,25 @@
             </div>
         </div>
         <div class="row">
+            {% assign counter = 0 %}
+            {% for post in site.posts %}
+                {% if counter == 3 %}
+                    {% break %}
+                {% endif %}
             <div class="col-md-6 col-lg-4">
                 <div class="post-entry">
                     <div class="image">
                         <img src="images/hero/aguilapi.webp" alt="Image" class="img-fluid">
                     </div>
                     <div class="text p-4">
-                        <h2 class="h5 text-black"><a href="#">Armadillos Barrón en semifinal: Lo gano en la Mesa</a></h2>
+                        <h2 class="h5 text-black"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                         <span class="text-uppercase date d-block mb-3"><small>Por SFA &bullet; Nov 22, 2018</small></span>
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat beatae  doloremque, ex corrupti perspiciatis.</p>
+                        <p class="mb-0">{{ post.excerpt }}</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="post-entry">
-                    <div class="image">
-                        <img src="images/hero/aguilapi.webp" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="text p-4">
-                        <h2 class="h5 text-black"><a href="#">Aguila PI en Primera Especial</a></h2>
-                        <span class="text-uppercase date d-block mb-3"><small>Por SFA &bullet; Noviembre 17, 2018</small></span>
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat beatae doloremque, ex corrupti perspiciatis.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="post-entry">
-                    <div class="image">
-                        <img src="images/hero/aguilapi.webp" alt="Image" class="img-fluid">
-                    </div>
-                    <div class="text p-4">
-                        <h2 class="h5 text-black"><a href="#">Fecha 12 Liga Municipal de Fubol</a></h2>
-                        <span class="text-uppercase date d-block mb-3"><small>Por SFA &bullet; Nov 22, 2018</small></span>
-                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat beatae doloremque, ex corrupti perspiciatis.</p>
-                    </div>
-                </div>
-            </div>
+            {% assign counter = counter | plus: 1 %}
+            {% endfor %}
         </div>
     </div>
 </div>
