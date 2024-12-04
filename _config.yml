@@ -1,10 +1,12 @@
 title: Solo Futbol Amateur
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Solo Futbol Amateur es un blog de futbol
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://solofutbolamateur.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+youtube_username: "@solofutbolamateurnr"
+facebook_username: "solofutbolamateurnr"
+tiktok_username: "@solofutbolamateurnr"
 
 # Pagination
 paginate: 6

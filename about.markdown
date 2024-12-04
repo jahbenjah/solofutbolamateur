@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca de Solo Futbol Amateur
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Solo Futbol Amatteur es un blog de futbol amateur en el Estado de México.Realizamos tranmisiones en vivo,fotografia y memes.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[solofutbolamateur.com](http://solofutbolamateur.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Puedes encontranos en las redes sociales como
+[Facebook][https://www.facebook.com/solofutbolamateurnr] /
+[Youtube](https://www.youtube.com/@solofutbolamateurnr)
+[Tiktok](https://www.tiktok.com/@solofutbolamateurnr)
 
-
-[jekyll-organization]: https://github.com/jekyll
