@@ -4,7 +4,7 @@ title: Acerca de Solo Futbol Amateur
 permalink: /about/
 ---
 
-Solo Futbol Amatteur es un blog de futbol amateur en el Estado de México.Realizamos tranmisiones en vivo,fotografia y memes.
+Solo Futbol Amateur es un blog de futbol amateur en el Estado de México.Realizamos tranmisiones en vivo,fotografia y memes.
 
 [solofutbolamateur.com](http://solofutbolamateur.com/)
 
