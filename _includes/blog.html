@@ -5,11 +5,11 @@
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="post-entry">
                     <div class="image">
-                        <img src="/images/img_1.jpg" alt="Image" class="img-fluid">
+                        <img src="{{post.image}}" alt="{{post.title}}" class="img-fluid">
                     </div>
                     <div class="text p-4">
                         <h2 class="h5 text-black"><a href="{{post.url}}">{{post.title}}</a></h2>
-                        <span class="text-uppercase date d-block mb-3"><small>By SFA &bullet; Nov 25, 2024</small></span>
+                        <span class="text-uppercase date d-block mb-3"><small>By SFA &bullet; {{post.date}}</small></span>
                         <p class="mb-0">{{post.excerpt}}</p>
                     </div>
                 </div>
