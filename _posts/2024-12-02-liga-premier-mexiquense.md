@@ -39,3 +39,5 @@ Telefono : [Sr Arturo 55 4382 0502](tel:5543820502)
 | Jnr Santa Cruz              |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo     |
 | Club Juvenil Azteca         |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo   |
 | Real Tepa                   |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo           |
+|Combinado Romero Rubio|Primera Fuerza Premier||Campo|
+|Real Tepa|Premier Ascenso C||Campo|
