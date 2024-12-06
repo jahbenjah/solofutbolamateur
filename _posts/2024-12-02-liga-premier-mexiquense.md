@@ -41,3 +41,6 @@ Telefono : [Sr Arturo 55 4382 0502](tel:5543820502)
 | Real Tepa                   |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo           |
 |Combinado Romero Rubio|Primera Fuerza Premier||Campo|
 |Real Tepa|Premier Ascenso C||Campo|
+|Juvenil Necaxa| Primera Fuerza Premiere||Campo|
+|Barrientos FC|Primera Fuerza Premiere||Campo|
+|La Remolacha| ||Campo|
