@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "No es etico burlarse del adversario"
-date: 2024-11-15 17:54:48 +0000
+date: 2024-01-09 17:54:48 +0000
 categories: arbitraje
 permalink: /:categories/:title:output_ext
-image: /images/blog/liga-premier/liga-premier-logo.webp
+image: /images/blog/arbitraje/everardo-mata.webp
 ---
 
 
