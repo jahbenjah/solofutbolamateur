@@ -4,26 +4,26 @@ title: "No es etico burlarse del adversario"
 date: 2024-01-09 17:54:48 +0000
 categories: arbitraje
 permalink: /:categories/:title:output_ext
-image: /images/blog/arbitraje/everardo-mata.webp
+image: /images/blog/arbitraje/everardomata.webp
 ---
 
 
-NO ES ÉTICO BURLARSE DEL ADVERSARIO,CUANDO EL EJECUTOR DEL TIRO PENAL HA ANOTADO EL GOL
+No es ético burlarse del adversario, cuando el ejecutor del tiro penal ha anotado el gol.
 
-Por Everardo Mata
+**Por Everardo Mata**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0hx9dd1OJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-*Resulta muy apropiado que el árbitro central,deba intervenir para acabar de erradicar con éste tipo de actuaciones de burlas y graves ofensas .
+* Resulta muy apropiado que el árbitro central,deba intervenir para acabar de erradicar con éste tipo de actuaciones de burlas y graves ofensas .
 
-*El jugador ejecutor del TIRO PENAL, NO DEBE NO PUEDE,burlarse frente al adversario,festejando en su cara haber anotado el gol en el tiro penal.
+* El jugador ejecutor del TIRO PENAL, NO DEBE NO PUEDE,burlarse frente al adversario,festejando en su cara haber anotado el gol en el tiro penal.
 
-*No es nada agradable aceptar esa grave falta de respeto por parte de ningún jugador y menos cuando tú equipo ha perdido porque te anotaron un tiro penal.. Esto cala,duele y ofende.
+* No es nada agradable aceptar esa grave falta de respeto por parte de ningún jugador y menos cuando tú equipo ha perdido porque te anotaron un tiro penal.. Esto cala,duele y ofende.
 
-***EXCELENTE la actuación del árbitro y maravilloso CRITERIO ARBITRAL, expulsar ambos jugadores,uno por burlarse de su adversario y el otro por agredir al adversario.(EL CÁNCER DE LA VIOLENCIA DEBE SER ERRADICADO Y LOS ÁRBITROS SOMOS LOS  ENCARGADOS DE ACTUAR).
+* **EXCELENTE** la actuación del árbitro y maravilloso CRITERIO ARBITRAL, expulsar ambos jugadores,uno por burlarse de su adversario y el otro por agredir al adversario.(EL CÁNCER DE LA VIOLENCIA DEBE SER ERRADICADO Y LOS ÁRBITROS SOMOS LOS  ENCARGADOS DE ACTUAR).
 
-*SE REQUIEREN árbitros que sean celosos con sus responsabilidades y muy conocedores de LAS REGLAS DE JUEGO,que no les tiemblen los huevos y las piernas para actuar con estos jugadores que se BURLAN DE LOS ADVERSARIOS EN SUS CARAS,PROVOCANDO VIOLENCIA,cada vez que se tenga que ejecutar un tiro penal..
+* SE REQUIEREN árbitros que sean celosos con sus responsabilidades y muy conocedores de LAS REGLAS DE JUEGO,que no les tiemblen los huevos y las piernas para actuar con estos jugadores que se BURLAN DE LOS ADVERSARIOS EN SUS CARAS,PROVOCANDO VIOLENCIA,cada vez que se tenga que ejecutar un tiro penal..
 
 ¡¡¡Felicito enormemente a la TRIPLETA ARBITRAL POR SU EXQUISITO VALOR,RECTITUD Y TRABAJO ARBITRAL!!!!...
 
