@@ -19,28 +19,61 @@ Se espera que el torneo inicie en el mes de Enero del 2025.
 
 ## Inscripciones
 
-Pudieran inscribirse equipos de cualquier parte del Estado de México, pero se espera que la mayoría de los equipos sean de la zona de Tultepec, Coacalco, Tultitlán, Cuautitlán, Tepotzotlán, etc.
+Pudieran inscribirse equipos de cualquier parte del Estado de México, pero se espera que la mayoría de los equipos sean de la zona de Tultepec, Coacalco, Tultitlán, Cuautitlán, Tepotzotlán, Teoloyucan.
 
 Telefono : [Sr Arturo 55 4382 0502](tel:5543820502)
 
-## Equipos
+## Equipos Primera Fuerza Premier 
 
-| Equipo                      | Fuerza | Logo       | Campo                    |
-| --------------------------- | ------ | ---------- | ------------------------ |
-| Leon Capula                 | 1ra Fueza Premier   | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo  |
-| Deportivo San Lorenzo       | 1ra Fueza Premier   | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo  |
-| Academia Rosario            |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo  |
-| Deportivo Victoria          |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo  |
-| Deportivo Juvenil San Martin|        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo  |
-| Juvenil Zócalo              |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo     |
-| Deportivo Tultepec          |        | ![Logo](/images/blog/liga-premier/dvo_tultepec.webp) | Campo  |
-| Deportivo Axotlan           |        | ![Logo Deportivo Axotlan](/images/blog/liga-premier/dvo-axotlan.webp) | Campo   |
-| Coacalco FC                 |        | ![Logo Coacalco FC](/images/blog/liga-premier/coacalco_fc.webp) | Campo        |
-| Jnr Santa Cruz              |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo     |
-| Club Juvenil Azteca         |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo   |
-| Real Tepa                   |        | ![Logo](/images/blog/liga-premier/liga-premier-logo.webp) | Campo           |
-|Combinado Romero Rubio|Primera Fuerza Premier||Campo|
-|Real Tepa|Premier Ascenso C||Campo|
-|Juvenil Necaxa| Primera Fuerza Premiere||Campo|
-|Barrientos FC|Primera Fuerza Premiere||Campo|
-|La Remolacha| ||Campo|
+| Equipo                      | Campo de Local |
+| --------------------------- | -------------- |
+| Club Juvesa                 |                |
+| Combinado Romero Rubio      |                |
+| Deportivo Axotlan           |                |
+| Deportivo Barrientos        |                |
+| Deportivo Cuautepec         |                |
+| Deportivo San Lorenzo       |                |
+| Deportivo San Martin        |                |
+| Deportivo Tultepec          |                |
+| Deportivo Victoria          |                |
+| Farmacias Lasaguil          |                |
+| Juvenil San Martin          |                |
+| Juvenil Necaxa              |                |
+| Leon Capula                 |                |
+| Necaxa Santo Tomas          |                |
+| Poli San Francisco          |                |
+| Puebla Huehuetoca (*)       |                |
+| Sangre Azul Xoloc           |                |
+| Union Campesinos            |                |
+
+## Equipos Primera Fuerza Premier Ascenso
+
+
+| Equipo                      | Campo de Local |
+| --------------------------- | -------------- |
+| Club Union                  |                |
+| Real Tepa                   |                |
+| Santiago Cuatlalpan         |                |
+| Juniors Santa Cruz          |                |
+| Deportivo San Matep         |                |
+| La Choza                    |                |
+| Universitario               |                |
+| Juvenil Uranio              |                |
+| Diablos Rojos               |               |
+| Rayito Santa Cruz           |                |
+| Cantera FC                  |                |
+| La Remolacha                |                |
+| Bellavista                  |                |
+| Juvenil Zocalo              |                |
+| Guepardos UCI               |                |
+| Juvenil Azteca              |                |
+| Pumas Santa Maria           |                |
+| Echeverria FC               |                |
+| Azteca Axotlan              |                |
+| Juvenil Axotlan             |                |
+| Amigos FC                   |                |
+| Real Valencia               |                |
+
+
+
+
