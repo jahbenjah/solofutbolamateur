@@ -7,7 +7,9 @@ permalink: /:categories/:title:output_ext
 image: /images/blog/liga-fdnr/toros.webp
 ---
 
-El **futbol en Nicolás Romero** se encuentra en su etapa de **semifinales** conlos equipos que participan en la (Federación Deportiva De Futbol Nicolás Romero)[https://www.facebook.com/ligaDiegoEscalona]. Los equipos que han logrado avanzar a esta fase en las distintas fuerzas son los siguientes:
+El **futbol en Nicolás Romero** se encuentra en su etapa de **semifinales** con los equipos que participan en la [Federación Deportiva De Futbol Nicolás Romero](https://www.facebook.com/ligaDiegoEscalona). Los equipos que han logrado avanzar a esta fase en las distintas fuerzas son los siguientes:
+
+Las semifinales se llevarán a cabo el 9 de febrero del 2025.
 
 ### Primera División Amateur
 
