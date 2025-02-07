@@ -22,7 +22,7 @@ Santos vs CD Madero
 Halcones vs Toros
 
 Equipo Toros
-![Toros](/images/blog/liga-fdnr/toros.webp)
+![Toros](/images/blog/lig-fdnr/toros.webp)
 
 ### Primera Fuereza B
 
