@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rol de la liga interastal Torneo de Clausura 2025"
-date: 2025-08-005 11:54:48 +0000
+date: 2025-08-05 11:54:48 +0000
 categories: liga interestatal
 permalink: /:categories/:title:output_ext
 image: /images/blog/liga-fdnr/toros.webp
