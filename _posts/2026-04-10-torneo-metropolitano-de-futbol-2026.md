@@ -37,37 +37,41 @@ Sábado 11 de abril | 10:00 horas
 
 En esta primera edición participarán **24 municipios**, divididos en 4 grupos:
 
+
 ### Grupo A
-- Jilotzingo
-- Teoloyucan
-- Nicolás Romero
-- Melchor Ocampo
-- Nextlalpan
-- Naucalpan de Juárez
+- [Jilotzingo](/selecciones/jilotzingo.html)
+- [Teoloyucan](/selecciones/teoloyucan.html)
+- [Nicolás Romero](/selecciones/nicolas-romero.html)
+- [Melchor Ocampo](/selecciones/melchor-ocampo.html)
+- [Nextlalpan](/selecciones/nextlalpan.html)
+- [Naucalpan de Juárez](/selecciones/naucalpan-de-juarez.html)
+
 
 ### Grupo B
-- Cuautitlán
-- Zumpango
-- Tultitlán
-- Tepotzotlán
-- Jaltenco
-- Cuautitlán Izcalli
+- [Cuautitlán](/selecciones/cuautitlan.html)
+- [Zumpango](/selecciones/zumpango.html)
+- [Tultitlán](/selecciones/tultitlan.html)
+- [Tepotzotlán](/selecciones/tepotzotlan.html)
+- [Jaltenco](/selecciones/jaltenco.html)
+- [Cuautitlán Izcalli](/selecciones/cuautitlan-izcalli.html)
+
 
 ### Grupo C
-- Amecameca
-- Ozumba
-- Tepetlixpa
-- Axapusco
-- Cocotitlán
-- Temamatla
+- [Amecameca](/selecciones/amecameca.html)
+- [Ozumba](/selecciones/ozumba.html)
+- [Tepetlixpa](/selecciones/tepetlixpa.html)
+- [Axapusco](/selecciones/axapusco.html)
+- [Cocotitlán](/selecciones/cocotitlan.html)
+- [Temamatla](/selecciones/temamatla.html)
+
 
 ### Grupo D
-- Teotihuacán
-- Ayapango
-- Tlalmanalco
-- Huehuetoca
-- Juchitepec
-- Chiconcuac
+- [Teotihuacán](/selecciones/teotihuacan.html)
+- [Ayapango](/selecciones/ayapango.html)
+- [Tlalmanalco](/selecciones/tlalmanalco.html)
+- [Huehuetoca](/selecciones/huehuetoca.html)
+- [Juchitepec](/selecciones/juchitepec.html)
+- [Chiconcuac](/selecciones/chiconcuac.html)
 
 ---
 

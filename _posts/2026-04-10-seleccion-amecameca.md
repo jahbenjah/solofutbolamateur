@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Selección Teoloyucan - Torneo Metropolitano de Fútbol 2026"
+title: "Selección Amecameca - Torneo Metropolitano de Fútbol 2026"
 date: 2026-04-10 09:00:48 +0000
 categories: selecciones torneo metropolitano
-permalink: /selecciones/teoloyucan:output_ext
+permalink: /selecciones/amecameca:output_ext
 image: /images/blog/1tmf2026/seleccionteoloyucan.webp
 ---
 
