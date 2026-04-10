@@ -4,7 +4,7 @@ title: "Selección Teoloyucan - Torneo Metropolitano de Fútbol 2026"
 date: 2026-04-10 09:00:48 +0000
 categories: selecciones torneo metropolitano
 permalink: /selecciones/teoloyucan:output_ext
-image: /images/blog/1tmf2026/banner.webp
+image: /images/blog/1tmf2026/seleccionteoloyucan.webp
 ---
 
 # Selección Teoloyucan

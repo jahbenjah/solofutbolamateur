@@ -8,7 +8,7 @@
         <div class="row">
             {% assign counter = 0 %}
             {% for post in site.posts %}
-                {% if counter == 3 %}
+                {% if counter == 9 %}
                     {% break %}
                 {% endif %}
             <div class="col-md-6 col-lg-4">
@@ -18,7 +18,7 @@
                     </div>
                     <div class="text p-4">
                         <h2 class="h5 text-black"><a href="{{post.url}}">{{ post.title }}</a></h2>
-                        <span class="text-uppercase date d-block mb-3"><small>Por SFA &bullet; Nov 22, 2018</small></span>
+                        <span class="text-uppercase date d-block mb-3"><small>Por SFA &bullet; {{ post.date | date: "%b %d, %Y" }}</small></span>
                         <p class="mb-0">{{ post.excerpt }}</p>
                     </div>
                 </div>
