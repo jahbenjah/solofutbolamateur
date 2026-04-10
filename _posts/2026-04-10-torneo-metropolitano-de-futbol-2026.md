@@ -4,7 +4,7 @@ title: "Torneo Metropolitano de Futbol"
 date: 2026-04-10 9:00:48 +0000
 categories: torneo metropolitano
 permalink: /:categories/:title:output_ext
-# image: /images/blog/liga-fdnr/toros.webp
+image: /images/blog/1tmf2026/banner.webp
 ---
 
 
