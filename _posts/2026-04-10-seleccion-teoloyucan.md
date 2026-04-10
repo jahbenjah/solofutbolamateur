@@ -22,8 +22,7 @@ La Selección de Teoloyucan representa el orgullo y la pasión futbolera del mun
 
 ## Palmarés
 
-- Campeón Municipal 2024
-- Subcampeón Regional 2025
+
 
 ---
 
@@ -41,9 +40,9 @@ La Selección de Teoloyucan representa el orgullo y la pasión futbolera del mun
 
 ## Lista de Jugadores
 
-| No. | Nombre completo         | Posición     | Edad | Club de origen      |
+| No. | Nombre completo         | Posición    | Edad | Club de origen      |
 |-----|------------------------|--------------|------|---------------------|
-|  1  |                        |              |      |                     |
+|  1  | Andres Davila          | Portero      |      |                     |
 |  2  |                        |              |      |                     |
 |  3  |                        |              |      |                     |
 | ... |                        |              |      |                     |
