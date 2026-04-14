@@ -7,7 +7,7 @@ permalink: /selecciones/melchorocampo:output_ext
 image: /images/blog/1tmf2026/seleccionmelchorocampo.webp
 ---
 
-# Selección Nicolas Romero
+# Selección Melchor Ocampo
 
 <p align="center">
   <img src="/images/blog/1tmf2026/seleccionmelchorocampo.webp" alt="Banner Selección Melchor Ocampo" style="max-width:100%;height:auto;">
