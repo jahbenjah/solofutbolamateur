@@ -7,8 +7,7 @@ permalink: /selecciones/juchitepec:output_ext
 image: /images/blog/1tmf2026/seleccionteoloyucan.webp
 ---
 
-# Selección Teoloyucan
-
+# Selección Juchitepec
 <p align="center">
   <img src="/images/blog/1tmf2026/seleccionteoloyucan.webp" alt="Banner Selección Teoloyucan" style="max-width:100%;height:auto;">
 </p>
