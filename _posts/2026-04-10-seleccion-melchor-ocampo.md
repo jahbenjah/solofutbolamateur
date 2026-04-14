@@ -4,13 +4,13 @@ title: "Selección Melchor Ocampo - Torneo Metropolitano de Fútbol 2026"
 date: 2026-04-10 09:00:48 +0000
 categories: selecciones torneo metropolitano
 permalink: /selecciones/melchorocampo:output_ext
-image: /images/blog/1tmf2026/seleccionteoloyucan.webp
+image: /images/blog/1tmf2026/seleccionmelchorocampo.webp
 ---
 
 # Selección Nicolas Romero
 
 <p align="center">
-  <img src="/images/blog/1tmf2026/seleccionteoloyucan.webp" alt="Banner Selección Teoloyucan" style="max-width:100%;height:auto;">
+  <img src="/images/blog/1tmf2026/seleccionmelchorocampo.webp" alt="Banner Selección Melchor Ocampo" style="max-width:100%;height:auto;">
 </p>
 
 ---

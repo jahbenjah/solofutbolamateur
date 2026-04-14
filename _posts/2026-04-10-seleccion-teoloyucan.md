@@ -47,18 +47,18 @@ La Selección de Teoloyucan representa el orgullo y la pasión futbolera del mun
 ## Cuerpo Técnico
 
 - Director Técnico: 
-- Auxiliar Técnico: 
-- Preparador Físico: 
-- Médico: 
 
 ---
 
 ## Calendario de Partidos
 
-| Fecha       | Rival             | Sede                |
-|-------------|-------------------|---------------------|
-| 11/04/2026  | Nicolás Romero    | Local (Teoloyucan)  |
-|             |                   |                     |
+| Fecha          | Local             | Visitante       | Sede                                                    | Hora    |
+|----------------|-------------------|-----------------|---------------------------------------------------------|---------|
+| 11 Abril 2026  | Teoloyucan        | Nicolás Romero  | Unidad Deportiva y Escuela del Deporte "Tratados de Teoloyucan" | 9:00 AM  |
+| 25 Abril 2026  |                   | Teoloyucan      |                                                                 | 6:00    |
+| 02 Mayo 2026   | Teoloyucan        | Jilonzongo      | Unidad Deportiva y Escuela del Deporte "Tratados de Teoloyucan" | 10:30 AM|
+| 09 MAyo 2026   |                   | Teoloyucan      |                                                          |                  |
+| 16 Mayo 2026   | Teoloyucan        |                 | Unidad Deportiva y Escuela del Deporte "Tratados de Teoloyucan"| 9:00    |
 
 ---
 

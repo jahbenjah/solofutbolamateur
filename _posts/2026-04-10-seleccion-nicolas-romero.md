@@ -41,34 +41,36 @@ La Selección de Nicolás Romero es símbolo de entrega, talento y perseverancia
 
 | No. | Nombre completo         | Posición    | Edad | Club de origen      |
 |-----|------------------------|--------------|------|---------------------|
-|  1  | Mario Alaniz           |              |      |                     |
+| 15  | Mario Alaniz           |              |      |                     |
 |  2  | Muelas                       |              |      |                     |
 |  3  | Beto Gil                       |              |      |                     |
-| ... | Buho                       |              |      |                     |
+|  9  | Julio Santos Rios (Buho)       |              |      |                     |
 | ... | Yahir                      |              |      |                     |
-| ... | Jordi                     |              |      |                     |
+| ... | Jordy Toledo                     |              |      |                     |
 | ... | Messi                     |              |      |                     |
-| ... | Picudo                     |              |      |                     |
-| ... | Zariñan                     |              |      |                     |
+| ... | Axel Picudo                     |              |      |                     |
+| ... | Irvin Zariñan                     |              |      |                     |
 | ... | Toto                    |              |      |                     |
 | ... | Burro                     |              |      |                     |
 | ... | Vocho                     |              |      |                     |
 | ... | Martin                     |   Portero           |      |                     |
-| ... | Irving                     |              |      |                     |
 | ... | Gael                     |              |      |                     |
 | ... | Jermain                     |              |      |                     |
 | ... | Gael                     |              |      |                     |
-| ... | Buho                     |              |      |                     |
+| ... | Daniel                     |              |      |                     |
+| ... | Carlos Reza                     |              |      |                     |
 
 ---
 
 ## Cuerpo Técnico
 
-- Director Técnico: 
+- Dirección Técnica: 
 
 Juan Carlos Sandoval
 Miguel Angel Pino
 Adan Escalona
+
+Fisioterapeutas:
 
 ---
 
@@ -79,16 +81,16 @@ Adan Escalona
 | 11 Abril 2026  | Teoloyucan        | Nicoläs Romero  | Unidad Deportiva y Escuela del Deporte "Tratados de Teoloyucan" | 9:00   |
 | 25 Abril 2026  | Nicolás Romero    | Nextlanpan      | Deportivo La Colmena                                    | 6:00    |
 | 02 Mayo 2026   |                   | Nicolás Romero  |                                                         |         |
-| 09 MAyp 2026   | Nicolás Romero    |                 | Deportivo La Colmena                                    | 9:00    |
+| 09 Mayo 2026   | Nicolás Romero    |                 | Deportivo La Colmena                                    | 9:00    |
 | 16 Mayo 2026   | Jilotzingo        | Nicolás Romero  | Campo de Futbol La Salle Esmeralda                      | 9:00    |
 
 ---
 
-## Redes Sociales
+## Goles
 
-- [Facebook](#)
-- [Instagram](#)
-- [Twitter/X](#)
+-  Jordi  1
+-  Picudo 1
+-  Burro  1
 
 ---
 
